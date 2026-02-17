@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 18:39:04,http://112.123.206.32:808/hls/1/index.m3u8$订阅源-1920x1080
+2026-02-18 06:34:02,http://112.123.206.32:808/hls/1/index.m3u8$订阅源-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8$订阅源-1920x1080
@@ -7,8 +7,8 @@ CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8$订阅源-1280x720
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8$订阅源
 CCTV-1,http://183.11.239.36:808/hls/19/index.m3u8$订阅源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|
-CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8$订阅源-1920x1080
 CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8$订阅源-1920x1080
+CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8$订阅源-1920x1080
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8$订阅源-1280x720
 CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8$订阅源-800x600
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8$订阅源
@@ -57,8 +57,8 @@ CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8$订阅源-1280x720
 CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8$订阅源-800x600
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10$订阅源-19x24
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8$订阅源-1920x1080
-CCTV-11,http://120.211.62.180:8000/hls/11/index.m3u8$订阅源-1920x1080
 CCTV-11,http://111.61.236.247:9081/hls/11/index.m3u8$订阅源-1920x1080
+CCTV-11,http://120.211.62.180:8000/hls/11/index.m3u8$订阅源-1920x1080
 CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8$订阅源-800x600
 CCTV-11,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11&tai=cctv11&VideoName=cctv11&channelID=cctv11$订阅源-19x24
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8$订阅源-1920x1080
@@ -71,8 +71,8 @@ CCTV-13,http://120.211.62.180:8000/hls/13/index.m3u8$订阅源-1920x1080
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源-1920x1080
 CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8$订阅源-800x600
 CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源-1920x1080
 CCTV-14,http://69.30.246.194/live/cctv14.m3u8$订阅源-1920x1080
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源-1920x1080
 CCTV-14,http://27.41.245.32:801/hls/14/index.m3u8$订阅源-1920x1080
 CCTV-14,http://120.211.62.180:8000/hls/14/index.m3u8$订阅源-1920x1080
 CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8$订阅源-1280x720
@@ -111,11 +111,11 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源-1280x720
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi$订阅源-19x24
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$订阅源-1920x1080
 浙江卫视,http://69.30.246.194/live/zjws.m3u8$订阅源-1920x1080
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$订阅源-1920x1080
+浙江卫视,http://111.61.236.247:9081/hls/25/index.m3u8$订阅源-1920x1080
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$订阅源-1920x1080
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$订阅源-1920x1080
-浙江卫视,http://111.61.236.247:9081/hls/25/index.m3u8$订阅源-1920x1080
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源-3840x2160
 湖南卫视,http://69.30.246.194/live/hnws.m3u8$订阅源-1920x1080
 湖南卫视,http://111.61.236.247:9081/hls/24/index.m3u8$订阅源-1920x1080
@@ -135,8 +135,8 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498$订阅源
 黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8$订阅源
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8$订阅源-1920x1080
 安徽卫视,http://111.61.236.247:9081/hls/27/index.m3u8$订阅源-1920x1080
+安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8$订阅源-1920x1080
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8$订阅源-1280x720
 安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532$订阅源
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8$订阅源
@@ -157,9 +157,9 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8$订阅源-1920x1080
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8$订阅源
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv$订阅源-0x0
-广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源-1280x720
 广西卫视,http://111.61.236.247:9081/hls/44/index.m3u8$订阅源-1920x1080
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8$订阅源-1280x720
+广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源-1280x720
 广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509$订阅源
 广西卫视,http://183.11.239.36:808/hls/56/index.m3u8$订阅源
 贵州卫视,http://111.61.236.247:9081/hls/37/index.m3u8$订阅源-1920x1080
@@ -175,8 +175,8 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 河北卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=hebei&videoTVChannel=hebei&P2PChannelID=pd://cctv_p2p_hebei&tai=hebei&VideoName=hebei&channelID=hebei$订阅源-19x24
 河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493$订阅源
 河北卫视,http://183.11.239.36:808/hls/54/index.m3u8$订阅源
-河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8$订阅源-1920x1080
 河南卫视,http://111.61.236.247:9081/hls/33/index.m3u8$订阅源-1920x1080
+河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8$订阅源-1920x1080
 河南卫视,http://23.237.228.134/live6/henan.m3u8$订阅源-1280x720
 河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525$订阅源
 河南卫视,http://183.11.239.36:808/hls/51/index.m3u8$订阅源
@@ -196,12 +196,12 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503$订阅源
 江西卫视,http://183.11.239.36:808/hls/44/index.m3u8$订阅源
 辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8$订阅源-1920x1080
-辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8$订阅源-1920x1080
 辽宁卫视,http://111.61.236.247:9081/hls/30/index.m3u8$订阅源-1920x1080
+辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8$订阅源-1920x1080
 辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8$订阅源-1280x720
 辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505$订阅源
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源-1920x1080
 内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8$订阅源-1920x1080
+内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源-1920x1080
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8$订阅源-1280x720
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8$订阅源
 宁夏卫视,http://111.61.236.247:9081/hls/51/index.m3u8$订阅源-1920x1080
@@ -209,8 +209,8 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$订阅源-1920x1080
 青海卫视,http://23.237.228.134/live8/shandong.m3u8$订阅源-1280x720
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$订阅源-1280x720
-山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8$订阅源-1920x1080
 山东卫视,http://111.61.236.247:9081/hls/31/index.m3u8$订阅源-1920x1080
+山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8$订阅源-1920x1080
 山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513$订阅源
 山东卫视,http://183.11.239.36:808/hls/43/index.m3u8$订阅源
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -226,8 +226,8 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://183.11.239.36:808/hls/50/index.m3u8$订阅源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源-1920x1080
-深圳卫视,http://113.26.202.52:1299/tsfile/live/0126_1.m3u8$订阅源-1920x1080
 深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8$订阅源-1920x1080
+深圳卫视,http://113.26.202.52:1299/tsfile/live/0126_1.m3u8$订阅源-1920x1080
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8$订阅源-1280x720
 深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481$订阅源
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8$订阅源-1280x720
@@ -243,12 +243,17 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 新疆卫视,http://111.61.236.247:9081/hls/53/index.m3u8$订阅源-1920x1080
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源-1280x720
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8$订阅源
-云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8$订阅源-1920x1080
 云南卫视,http://111.61.236.247:9081/hls/32/index.m3u8$订阅源-1920x1080
+云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8$订阅源-1920x1080
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8$订阅源-1280x720
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8$订阅源
 
 ☘️河北频道,#genre#
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd$订阅源-1920x1080
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd$订阅源-1920x1080
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd$订阅源-1920x1080
+邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8$订阅源-1920x1080
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8$订阅源-1280x720
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8$订阅源-1280x720
 衡水公共,http://ls.qingting.fm/live/2810.m3u8$订阅源
@@ -257,7 +262,15 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18$订阅源
 河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
 河北农民,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3$订阅源
+昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源-1920x1080
+任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源-1920x1080
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8$订阅源-1920x1080
+兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
 平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8$订阅源-1280x720
+平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
+昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源-1920x1080
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源-1920x1080
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8$订阅源-1920x1080
 
 🌊港·澳·台,#genre#
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$订阅源-840x480
@@ -298,7 +311,6 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源-1920x1080
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-1280x720
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv$订阅源
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
@@ -333,6 +345,7 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub$订阅源-1280x720
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub$订阅源-1280x720
+江苏体育,http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY$订阅源
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8$订阅源-1920x1080
 
 🪁动画频道,#genre#
@@ -348,7 +361,6 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源-1920x1080
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-1920x1080
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源-1920x1080
 
 🎮游戏频道,#genre#
 
