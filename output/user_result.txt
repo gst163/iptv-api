@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-12 06:29:06,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
+2026-03-12 18:31:16,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
@@ -203,8 +203,8 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源-1920x1080
-深圳卫视,http://113.26.202.52:1299/tsfile/live/0126_1.m3u8$订阅源-1920x1080
 深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8$订阅源-1920x1080
+深圳卫视,http://113.26.202.52:1299/tsfile/live/0126_1.m3u8$订阅源-1920x1080
 深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481$订阅源
 深圳卫视,http://139.196.151.191:2051/rtp/239.45.3.231:5140$上海电信组播源
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$订阅源-1280x720
@@ -239,6 +239,7 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源-1920x1080
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8$订阅源-1920x1080
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
+平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8$订阅源-1280x720
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源-1920x1080
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源-1920x1080
@@ -253,8 +254,8 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源-1280x720
-凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源
+凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源-1920x1080
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源-1280x720
@@ -285,7 +286,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源-1920x1080
-天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-854x480
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-720x540
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv$订阅源
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源-1280x720
@@ -324,10 +325,10 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源-1920x1080
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$订阅源
-海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-1920x1080
-中华小当家,https://live.metshop.top/huya/11342413$订阅源-1920x1080
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-640x432
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-1920x1080
+中华小当家,https://live.metshop.top/huya/11342413$订阅源-640x432
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-640x432
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源-1920x1080
 
 🎮游戏频道,#genre#
