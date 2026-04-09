@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-09 18:55:18,http://110.53.54.122:808/hls/62/index.m3u8$湖南酒店源-720x576
+2026-04-10 06:43:02,http://110.53.54.122:808/hls/62/index.m3u8$湖南酒店源-720x576
 
 📺央视频道,#genre#
 CCTV-1,http://110.53.54.122:808/hls/62/index.m3u8$湖南酒店源-720x576
@@ -283,8 +283,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,rtmp://220.130.201.73/sat/tv701$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源-1280x720
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
 东森超视,rtmp://116.93.98.236/sat/tv331.flv$订阅源-1280x720
 东森超视,rtmp://60.248.77.83/sat/tv331$订阅源-1280x720
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源-1280x720
@@ -295,18 +295,17 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源-1280x720
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8$订阅源-1440x1080
-靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
-靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
+靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
+靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源-1920x1080
-天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-854x480
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-720x540
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv$订阅源
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$订阅源-1440x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源-1280x720
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
 东森超视,rtmp://116.93.98.236/sat/tv331.flv$订阅源-1280x720
 东森超视,rtmp://60.248.77.83/sat/tv331$订阅源-1280x720
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源-1280x720
@@ -343,7 +342,6 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源-1920x1080
 
 🎮游戏频道,#genre#
 游戏风云,http://139.196.151.191:2051/rtp/239.45.3.131:5140$上海电信组播源
