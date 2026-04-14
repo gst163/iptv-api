@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-14 06:44:55,http://110.53.54.122:808/hls/62/index.m3u8$湖南酒店源-720x576
+2026-04-14 18:58:27,http://110.53.54.122:808/hls/62/index.m3u8$湖南酒店源-720x576
 
 📺央视频道,#genre#
 CCTV-1,http://110.53.54.122:808/hls/62/index.m3u8$湖南酒店源-720x576
@@ -256,7 +256,6 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源-1920x1080
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8$订阅源-1920x1080
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
-平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8$订阅源-1280x720
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源-1920x1080
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源-1920x1080
@@ -301,7 +300,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源-1920x1080
-天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-720x540
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791$订阅源-1920x1080
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv$订阅源
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$订阅源-1440x1080
@@ -343,9 +342,9 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
 金鹰卡通,http://139.196.151.191:2051/rtp/239.45.3.118:5140$上海电信组播源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$订阅源
-海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-896x688
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-800x600
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-896x688
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-800x600
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源-1920x1080
 
 🎮游戏频道,#genre#
