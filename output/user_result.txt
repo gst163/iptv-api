@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-09 20:32:10,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
+2026-06-10 07:20:12,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
@@ -63,10 +63,12 @@ CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&vid
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4$订阅源-19x24
 
 💰央视付费频道,#genre#
+央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$订阅源-1920x1080
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$订阅源-1920x1080
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$订阅源-1920x1080
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$订阅源-1920x1080
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$订阅源-1920x1080
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8$订阅源-1920x1080
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$订阅源-1920x1080
 
 📡卫视频道,#genre#
@@ -189,6 +191,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
 🎬电影频道,#genre#
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订阅源-1920x1080
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源-1920x1080
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8$订阅源-1280x720
 靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
@@ -219,11 +222,11 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源-1280x720
 纬来体育,rtmp://220.130.201.73/sat/tv721$订阅源
 五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140$上海电信组播源
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源-1920x1080
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub$订阅源-1920x1080
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8$订阅源-1920x1080
 
 🪁动画频道,#genre#
-卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源-720x576
 动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140$上海电信组播源
 金鹰卡通,http://139.196.151.191:2051/rtp/239.45.3.118:5140$上海电信组播源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
