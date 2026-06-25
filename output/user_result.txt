@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-25 07:05:49,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
+2026-06-25 20:13:42,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8$订阅源
-CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8$订阅源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|
+CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8$订阅源
 CCTV-2,http://139.196.151.191:2051/rtp/239.45.1.109:5140$上海电信组播源
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8$订阅源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|
@@ -158,6 +158,7 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源-1920x1080
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8$订阅源-1920x1080
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
+平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8$订阅源-1280x720
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8$订阅源-1920x1080
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源-1920x1080
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源-1920x1080
@@ -194,12 +195,13 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
 🎬电影频道,#genre#
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订阅源-1920x1080
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源-1920x1080
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6356&tk=abed47f08529$订阅源
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8$订阅源-1080x720
-靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
-靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
+靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
+靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv$订阅源
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
@@ -232,11 +234,9 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8c1c22&tk=6949f8ce7202$订阅源-854x480
 
 🪁动画频道,#genre#
-卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源-720x576
 动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140$上海电信组播源
 青春动漫,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1055&tk=23a9aca1f79f$订阅源-854x480
 宝宝动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6379&tk=23a9aca1f79f$订阅源-854x480
-优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=7f7c4b909389a0cd5172701768041a0f3887534c4534a68bf1dc85550389e9ab156655484be16e89604513fde9da2f036ebae28d31515b0be32eb12462f5de9d9cab8f00c44671241d5c6e1356$订阅源-1920x1080
 金鹰卡通,http://139.196.151.191:2051/rtp/239.45.3.118:5140$上海电信组播源
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2912&tk=e503191f8e20$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
