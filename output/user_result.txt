@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-28 19:33:04,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
+2026-06-29 07:04:05,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
@@ -197,10 +197,10 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6356&tk=abed47f08529$订阅源
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8$订阅源-1080x720
-靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
-靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
+靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源-1920x1080
 靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
+靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源-1920x1080
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源-1920x1080
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv$订阅源
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
