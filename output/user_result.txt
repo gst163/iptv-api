@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-02 06:56:08,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
+2026-08-02 19:13:41,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
@@ -229,7 +229,6 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140$上海电信组播源
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源-1920x1080
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub$订阅源-1920x1080
-江苏体育,http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY$订阅源
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8$订阅源-1920x1080
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8c1c22&tk=6949f8ce7202$订阅源-854x480
 
@@ -242,7 +241,6 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2912&tk=e503191f8e20$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$订阅源
-火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8$订阅源-1920x1032
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-596x458
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-596x458
