@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 01:19:22,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
+2026-09-01 09:02:24,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
 
 📺央视频道,#genre#
 CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$上海电信组播源
@@ -63,12 +63,10 @@ CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&vid
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4$订阅源-19x24
 
 💰央视付费频道,#genre#
-央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$订阅源-1920x1080
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$订阅源-1920x1080
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$订阅源-1920x1080
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$订阅源-1920x1080
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$订阅源-1920x1080
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8$订阅源-1920x1080
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$订阅源-1920x1080
 
 📡卫视频道,#genre#
@@ -225,11 +223,11 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源-1280x720
 纬来体育,rtmp://220.130.201.73/sat/tv721$订阅源
 五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140$上海电信组播源
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源-1920x1080
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub$订阅源-1920x1080
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8c1c22&tk=6949f8ce7202$订阅源-854x480
 
 🪁动画频道,#genre#
+卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源-720x576
 动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140$上海电信组播源
 青春动漫,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1055&tk=23a9aca1f79f$订阅源-854x480
 宝宝动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6379&tk=23a9aca1f79f$订阅源-854x480
@@ -252,6 +250,8 @@ CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8$订阅源
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$订阅源-1920x1080
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
+音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2$订阅源
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 
 🏛经典剧场,#genre#
 上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8$订阅源-886x496
