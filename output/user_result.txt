@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 22:03:53,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|-1920x1080
+2026-09-10 07:53:03,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源|-1920x1080
@@ -228,6 +228,7 @@ CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8$订阅源
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8c1c22&tk=6949f8ce7202$订阅源-854x480
 
 🪁动画频道,#genre#
+卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源-720x576
 动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140$上海电信组播源
 青春动漫,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1055&tk=23a9aca1f79f$订阅源-854x480
 宝宝动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6379&tk=23a9aca1f79f$订阅源-854x480
@@ -235,9 +236,9 @@ CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8$订阅源
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2912&tk=e503191f8e20$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源-1920x1080
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$订阅源
-海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-1920x1080
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源-640x480
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源-1280x720
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-1920x1080
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源-640x480
 
 🎮游戏频道,#genre#
 游戏风云,http://139.196.151.191:2051/rtp/239.45.3.131:5140$上海电信组播源
